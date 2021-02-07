@@ -4,9 +4,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/playXE)
 
-- 🔭 I’m currently working on [WaffleLink](https://github.com/jazz-lang/WaffleLink),[libimmixcons](https://github.com/playxe/libimmixcons)
+- 🔭 I’m currently working on [Starlight](https://github.com/Starlight-JS/starlight)
 - 🌱 I’m currently learning English. :)
-- 🤔 I’m looking for help with [libimmixcons](https://github.com/playxe/libimmixcons)
+- 🤔 I’m looking for help with [Starlight](https://github.com/Starlight-JS/starlight)
 
 - How to reach me: 
   - adel.prokurov@gmail.com
