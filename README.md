@@ -5,7 +5,7 @@
 ![Profile views](https://gpvc.arturio.dev/playXE)
 
 - 🔭 I’m currently working on [Starlight](https://github.com/Starlight-JS/starlight)
-- 🌱 I’m currently learning English. :)
+- 🌱 I’m currently learning Japanese. :)
 - 🤔 I’m looking for help with [Starlight](https://github.com/Starlight-JS/starlight)
 
 - How to reach me: 
