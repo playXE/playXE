@@ -15,6 +15,7 @@
 - Social networks and messengers:
   - VK: [Adel Prokurov](https://vk.com/rockadel)
   - Telegram: @adelprokurov
+  - Instagram: @playxe
 - Pronouns: he/him
 - Favorite programming languages: Rust,C++,Dart,C# and Ruby.
 - Main research focus: I'm focusing on programming language implementation,compilers and automatic memory management (i.e garbage collection).
