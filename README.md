@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Adel Prokurov
 
-## A guy in final year in school from Russia, Yaroslavl, love programming and to run.
+## A guy that loves programming and to run.
 
 ![Profile views](https://gpvc.arturio.dev/playXE)
 
