@@ -6,10 +6,10 @@
 
 - 🔭 I’m currently working on Scheme compiler
 - 🌱 I’m currently learning Japanese. :)
+- I am open to work!
 
 - How to reach me: 
   - adel.prokurov@gmail.com
-  - gtashnik11@gmail.com
 - Social networks and messengers:
   - Telegram: @adelprokurov
   - Instagram: @playxe
