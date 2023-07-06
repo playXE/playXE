@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning Japanese. :)
 - I am open to work!
 
+- [Patreon](https://patreon.com/playXEOpenSourceProjects)
 - How to reach me: 
   - adel.prokurov@gmail.com
 - Social networks and messengers:
